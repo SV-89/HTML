@@ -1,0 +1,23 @@
+body {
+  background: #8b0000
+}
+
+#title, .subtitle, .post_title {
+  color: gainsboro;
+}
+.post_title{
+  font-size: 16px;
+  font-style: italic;
+}
+.post_title {
+  background: #1c1c1c;
+  padding: 15px;
+  border-top: 3px solid black;
+  border-right: 2px dotted yellow;
+  border-left: 1px dashed green;
+  border-bottom: 6px dashed purple;
+  border-radius: 3px;
+}
+.Grid_Logo {
+  border-radius: 50%;
+}
